@@ -1,0 +1,35 @@
+
+*:not(i) {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   outline: none;
+   border: none;
+   list-style: none;
+   text-decoration: none !important;
+   font-family: 'titillium';
+}
+
+body {
+   --primary--: #D10024;
+   --secondary--: #FFF;
+   --dark--: #1E1F29;
+   --darkern--: #15161D;
+   --soft--: #2B2D42;
+   --light--: #E4E7Ed;
+   --lightern--: #8D99AE;
+}
+
+a {
+   color: var(--secondary--);
+}
+
+a:hover {
+   color: #fff;
+}
+
+.loading {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
