@@ -5,6 +5,8 @@ Home page
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/92879200/184523284-af627f98-c46d-40e7-90e5-ec5fe985fbdb.png">
 footer of site
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/92879200/184523343-630c1f67-61df-477e-9aaf-8dfd77620a36.png">
+products page
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/92879200/184523383-a81b1009-41e0-439a-8b93-8d590b10f4ee.png">
 
 ## Available Scripts
 
