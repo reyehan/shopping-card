@@ -16,6 +16,9 @@ product add to cart
 single product page
 <img width="960" alt="5" src="https://user-images.githubusercontent.com/92879200/184523448-d53ac354-8819-44dd-8c16-b4b3f2311757.png">
 
+cart page
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/92879200/184523521-4b0101f8-9872-42a1-b9a0-ccd4d4d3842f.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
