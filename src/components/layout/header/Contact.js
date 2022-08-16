@@ -13,7 +13,7 @@ const Contact = () => {
                         <i className="fa-solid fa-phone"></i>
                         <span>+989101363913</span>
                     </Link>
-                    <a href='mailto:abmdfficial@gmail.com'>
+                    <a href='mailto:reyhane80safari@gmail.com'>
                         <i className="fa-regular fa-envelope"></i>
                         <span>reyhane80safari@gmail.com</span>
                     </a>
